@@ -49,7 +49,7 @@
   display: block;
   font-family: "Noto Serif", "Times New Roman", serif;
   font-style: italic;
-  font-weight: normal;
+  font-weight: 400;
   font-size: 60px;
   line-height: 72px;
 }
@@ -57,7 +57,7 @@
 .header__description {
   font-family: "Noto Serif", "Times New Roman", serif;
   font-style: normal;
-  font-weight: normal;
+  font-weight: 400;
   font-size: 20px;
   line-height: 30px;
   margin: 28px 0 0;
@@ -147,7 +147,7 @@ iframe {
   max-width: 438px;
   font-family: "Noto Serif";
   font-style: normal;
-  font-weight: normal;
+  font-weight: 400;
   font-size: 20px;
   line-height: 30px;
 }
